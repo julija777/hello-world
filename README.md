@@ -1,2 +1,3 @@
 # hello-world
-iStudy,learning RUBY
+iStudy here RUBY
+
